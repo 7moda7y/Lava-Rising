@@ -1,5 +1,5 @@
 # Lava-Rising
-this is an Add-On for minecraft bedrock edition
+this is an Add-On for minecraft bedrock edition this addon does not support new world height
 
 # Licenses
 
