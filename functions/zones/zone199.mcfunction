@@ -1,0 +1,9 @@
+fill 500 198 0 461 198 499 lava 0 replace air
+fill 460 198 499 398 198 0 lava 0 replace air
+fill 397 198 0 346 198 499 lava 0 replace air
+fill 345 198 499 284 198 0 lava 0 replace air
+fill 283 198 0 219 198 499 lava 0 replace air
+fill 218 198 499 154 198 0 lava 0 replace air
+fill 88 198 499 24 198 0 lava 0 replace air
+fill 1 198 1 23 198 499 lava 0 replace air
+fill 89 198 499 153 198 0 lava 0 replace air

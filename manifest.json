@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "by hmoda7y",
+    "name": "lava raise addon",
+    "uuid": "5e78888c-d36c-4a66-89fb-e8510e214100",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "a7763e15-1bf5-4878-bcf3-6b442d2957cd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
